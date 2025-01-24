@@ -1,5 +1,16 @@
 * {
-  margin: 0;
-  padding: 0;
+  margin: 20px;
+  padding: 0px;
   box-sizing: border-box;
-  background-color: blue;
+  background-color: #0A22F4;
+}
+section{
+  margin:20px;
+  padding:20px;
+}
+.Contact {
+  color: #FFFFFF;
+}
+p {
+  width: 300px;
+}
